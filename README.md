@@ -5,8 +5,8 @@ Currently, if time allows, I'm looking for opportunities to develop my skills in
 The repo is to gather my recent data analysis projects. I have also an old repo [HERE](https://github.com/Arcywojak) which mostly concerns front end.  
 
 Contact me here:  
--email: maciej778TEST@gmail.com
--Linkedin: https://www.linkedin.com/in/maciej-malewicz-27a5271b0/
+- email: maciej778TEST@gmail.com  
+- Linkedin: https://www.linkedin.com/in/maciej-malewicz-27a5271b0/
 
 <!--
 **MaciejMalewicz778/MaciejMalewicz778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
