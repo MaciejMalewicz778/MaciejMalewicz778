@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm studying Mathematics and Data Analysis at Warsaw University of technology at faculty of Mathematics and Information Technology.  
+I'm studying Mathematics and Data Analysis (currently first term out of four of Master's degree with specialization of Statistics and Data Analysis) at Warsaw University of technology at faculty of Mathematics and Information Technology.  
 At the end of september I ended my carrier as a frontend (Angular) developer (temporarily or permanently? I'm not sure).  
 As a lover of mathematics and data science I'm looking for opportunities to develop my skills in these fields as well as in machine learning and data analysis.  
 The repo is to gather my recent data analysis projects. I have also an old repo [HERE](https://github.com/Arcywojak) which mostly concerns front end.  
