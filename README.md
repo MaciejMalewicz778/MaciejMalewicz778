@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm studying Mathematics and Data Analysis at Warsaw University of technology at faculty of Mathematics and Information Technology.  
+At the end of september I ended my carrier as a frontend (Angular) developer (temporarily or permanently? I'm not sure). 
+Currently, if time allows, I'm looking for opportunities to develop my skills in data analysis / data science.  
+The repo is to gather my recent data analysis projects. I have also an old repo [HERE](https://github.com/Arcywojak) which mostly concerns front end.
 
 <!--
 **MaciejMalewicz778/MaciejMalewicz778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
